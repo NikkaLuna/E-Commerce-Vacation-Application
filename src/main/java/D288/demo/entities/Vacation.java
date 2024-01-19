@@ -1,0 +1,63 @@
+package D288.demo.entities;
+
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+import org.hibernate.annotations.CreationTimestamp;
+import org.hibernate.annotations.UpdateTimestamp;
+
+import java.math.BigDecimal;
+import java.sql.Date;
+import java.util.HashSet;
+import java.util.Set;
+
+@Entity
+@Getter
+@Setter
+@AllArgsConstructor
+@Table(name = "vacations")
+
+public class Vacation {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name="vacation_id")
+    private Long id;
+
+    @Column(name="vacation_title")
+    private String vacation_title;
+
+    @Column(name="description")
+    private String description;
+
+    @Column(name="travel_fare_price")
+    private BigDecimal travel_price;
+
+    @Column(name="image_url")
+    private String image_URL;
+
+    @Column(name="create_date")
+    @CreationTimestamp
+    private Date create_date;
+
+    @Column(name="last_update")
+    @UpdateTimestamp
+    private Date last_update;
+
+    @OneToMany(cascade = CascadeType.ALL)
+    @JoinColumn(name = "vacation_id")
+    private Set<Excursion> excursions;
+
+    //Establishing a OneToMany mapping between Vacation and CartItem.
+    @OneToMany(cascade = CascadeType.ALL)
+    @JoinColumn(name = "vacation_id")
+    private Set<CartItem> cartItems = new HashSet<>();
+
+
+    public Vacation() {
+
+    }
+}
+
+
