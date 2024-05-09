@@ -3,10 +3,10 @@
 ## Scenario
 This project simulates being tasked with modernizing a travel agency's legacy back-end, which is plagued by undocumented bugs and technical debt. Using Java Spring Framework, this project aims to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
 
-
 <div style="text-align: center;">
-  <img src="https://github.com/NikkaLuna/SpringBoot_ECommerce_Application/assets/94496219/623c9deb-d247-485f-8a65-6e11f38aa855" alt="Image">
+  <img src="https://github.com/NikkaLuna/SpringBoot_ECommerce_Application/assets/94496219/16d64ccf-f4cb-4458-b35c-20c683604234" alt="Image">
 </div>
+
 
 
 
