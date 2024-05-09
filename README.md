@@ -8,7 +8,7 @@
 
 
 ## Scenario
-You've been tasked with modernizing a travel agency's legacy back-end, plagued by undocumented bugs and technical debt. Using Java Spring Framework, this project aims to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
+This project simulates being tasked with modernizing a travel agency's legacy back-end, which is plagued by undocumented bugs and technical debt. Using Java Spring Framework, this project aims to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
 
 ## Features
 - **Java Spring Framework:** The project leverages the Spring Framework for a robust and modern back-end foundation.
