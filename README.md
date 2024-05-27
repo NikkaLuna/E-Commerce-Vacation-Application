@@ -1,4 +1,4 @@
-# ECommerceApplication-SpringBoot-JPA-Angular-MySQL 
+# ECommerceApplication_SpringBoot_JPA-Angular_MySQL 
 
 ## Scenario
 In this project, I simulated the task of modernizing a travel agency's legacy back-end, which was plagued by undocumented bugs and technical debt. Using the Java Spring Framework, I aimed to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
