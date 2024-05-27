@@ -1,23 +1,22 @@
 # SpringBoot_ECommerce_Application 
 
 ## Scenario
-This project simulates being tasked with modernizing a travel agency's legacy back-end, which is plagued by undocumented bugs and technical debt. Using Java Spring Framework, this project aims to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
+In this project, I simulated the task of modernizing a travel agency's legacy back-end, which was plagued by undocumented bugs and technical debt. Using the Java Spring Framework, I aimed to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
+
 
 <div style="text-align: center;">
   <img src="https://github.com/NikkaLuna/SpringBoot_ECommerce_Application/assets/94496219/16d64ccf-f4cb-4458-b35c-20c683604234" alt="Image">
 </div>
 
 
-
-
 ## Features
-- **Java Spring Framework:** The project leverages the Spring Framework for a robust and modern back-end foundation.
-- **Integration with Angular Front-End:** The back-end seamlessly integrates with the existing Angular front-end, ensuring a cohesive user experience.
-- **Spring Data JPA:** Spring Data JPA is used for efficient data access and management.
-- **RESTful API:** The back-end exposes RESTful APIs for essential functions like checkout and vacation packages listing.
-- **MySQL Database:** Data is stored and retrieved from a MySQL database, providing a reliable data storage solution.
-- **Validation:** Robust input validation ensures data integrity and adherence to requirements.
-- **Sample Data:** Five sample customers are programmatically added to the application for testing purposes.
+- **Java Spring Framework:** I leveraged the Spring Framework to create a robust and modern back-end foundation.
+- **Integration with Angular Front-End:** I ensured seamless integration of the back-end with the existing Angular front-end, providing a cohesive user experience.
+- **Spring Data JPA:** I used Spring Data JPA for efficient data access and management.
+- **RESTful API:** I exposed RESTful APIs for essential functions like checkout and vacation packages listing.
+- **MySQL Database:** I used a MySQL database for reliable data storage and retrieval.
+- **Validation:** I implemented robust input validation to ensure data integrity and adherence to requirements.
+- **Sample Data:** I programmatically added five sample customers to the application for testing purposes.
 
 ## Motivation
 This project addresses the critical need to modernize the travel agency's back-end, ensuring the stability and performance of the booking system. It eliminates the technical debt associated with the legacy system and sets the stage for future enhancements.
@@ -37,7 +36,7 @@ Contributions to this project are encouraged. Feel free to submit pull requests 
 
 
 ## 🚀 About Me
-I'm a Software Engineer with an emphasis on Java, SQL, and AWS.  
+I'm a Software Engineer with an emphasis on Java, Python, SQL, and AWS.  
 
 
 ## 🔗 Links
