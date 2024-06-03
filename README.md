@@ -1,7 +1,7 @@
 # ECommerceApplication_SpringBoot_JPA-Angular_Hibernate 
 
-## Scenario
-In this project, I simulated the task of modernizing a travel agency's legacy back-end, which was plagued by undocumented bugs and technical debt. Using the Java Spring Framework, I aimed to migrate mission-critical functionalities from the outdated system to ensure stability and future growth.
+## Project Overview
+The ECommerce Application is a comprehensive solution designed to facilitate the online sale of vacation packages. It combines the power of Java Spring Boot for the backend and Angular for the frontend to deliver a seamless user experience. This application demonstrates the use of modern web development technologies to create a scalable and efficient e-commerce platform.
 
 
 <div style="text-align: center;">
@@ -10,16 +10,13 @@ In this project, I simulated the task of modernizing a travel agency's legacy ba
 
 ## Features
 - **Java Spring Framework:** I leveraged the Spring Framework to create a robust and modern back-end foundation.
-- **Integration with Angular Front-End:** I ensured seamless integration of the back-end with the existing Angular front-end, providing a cohesive user experience.
+- **Integration with Angular Front-End:** I ensured seamless integration of the back-end with the Angular front-end, providing a cohesive user experience.
 - **Spring Data JPA:** I used Spring Data JPA for efficient data access and management.
 - **Hibernate ORM:** I utilized Hibernate as the ORM (Object-Relational Mapping) tool to interact with the MySQL database, ensuring seamless data persistence and retrieval.
 - **RESTful API:** I exposed RESTful APIs for essential functions like checkout and vacation packages listing.
 - **MySQL Database:** I used a MySQL database for reliable data storage and retrieval.
 - **Validation:** I implemented robust input validation to ensure data integrity and adherence to requirements.
 - **Sample Data:** I programmatically added five sample customers to the application for testing purposes.
-
-## Motivation
-This project addresses the critical need to modernize the travel agency's back-end, ensuring the stability and performance of the booking system. It eliminates the technical debt associated with the legacy system and sets the stage for future enhancements.
 
 ## Usage
 To use this project, follow these steps:
