@@ -15,7 +15,7 @@ The ECommerce Application is a comprehensive solution designed to facilitate the
 
 ![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%232.png)
 
-The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services, ensuring a smooth and responsive user experience.  I developed and integrated the entire backend using Java Spring Boot and connected it to the front end through RESTful APIs.*
+*The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services, ensuring a smooth and responsive user experience.  I developed and integrated the entire backend using Java Spring Boot and connected it to the front end through RESTful APIs.*
 
 
 ## Features
