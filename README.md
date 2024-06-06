@@ -7,12 +7,11 @@ The ECommerce Application is a comprehensive solution designed to facilitate the
 
 ### ECommerce Application Interface
 
-![ECommerce Application](https://github.com/NikkaLuna/HotelSchedulingApplication_Java_Spring_Multithreading_with_Docker/blob/D387/Docker%20Deployment.png)
+![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%231.png)
 
-*This screenshot demonstrates the user interface of the ECommerce application for vacation packages. The left side of the image displays the front-end interface where users can browse various vacation packages, with options for destinations such as Italy, Greece, France, Belgium, Brazil, South Dakota, Nashville, and Wisconsin, each with respective prices. The cart section on the right allows users to specify the party size and view the total cost before proceeding to checkout. The right side of the image shows the developer tools console in Chrome, indicating the application's data service operations, such as fetching customer details and cart items. Although I did not design the front end, I developed and integrated the entire backend using Java Spring Boot and connected it to the front end through RESTful APIs.*
-<div style="text-align: center;">
-  <img src="https://github.com/NikkaLuna/SpringBoot_ECommerce_Application/assets/94496219/16d64ccf-f4cb-4458-b35c-20c683604234" alt="Image">
-</div>
+*This screenshot demonstrates the user interface of the ECommerce application for vacation packages. The left side of the image displays the front-end interface where users can browse various vacation packages, each with respective prices.
+
+The right side of the image shows the developer tools console in Chrome, indicating the application's data service operations, such as fetching customer details and cart items. I developed and integrated the entire backend using Java Spring Boot and connected it to the front end through RESTful APIs.*
 
 ## Features
 - **Java Spring Framework:** I leveraged the Spring Framework to create a robust and modern back-end foundation.
