@@ -27,7 +27,7 @@ It enables users to browse and purchase vacation and excursion packages online, 
 
 ![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%232.png)
 
-*The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services.  I developed and integrated the entire backend using Java Spring Boot and connected it to the front end using RESTful APIs.*
+*The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services.*
 
 ## Dependencies
 
