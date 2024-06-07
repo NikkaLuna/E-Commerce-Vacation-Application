@@ -37,11 +37,6 @@ To use this project, follow these steps:
 2. Open the project in IntelliJ IDEA (Ultimate Edition) provided in the lab environment.
 3. Customize and extend the application to meet specific business requirements or integration needs.
 
-## Contributions
-
-Contributions to this project are encouraged. Feel free to submit pull requests for bug fixes, feature additions, or other enhancements. Your contributions will help ensure the success of the migration project and the future stability of the travel agency's booking system.
-
-
 ## Authors
 
 - [@NikkaLuna](https://github.com/NikkaLuna)
