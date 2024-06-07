@@ -2,11 +2,29 @@
 
 ## Project Overview
 
-The ECommerce Application is a web-based platform built with Java Spring Boot for the backend and Angular for the frontend. It enables users to browse and purchase vacation packages online, showcasing the implementation of modern web technologies for scalable and efficient e-commerce solutions.
+The ECommerce Application is a web-based platform built with Java Spring Boot for the backend and Angular for the frontend. It enables users to browse and purchase vacation and excursion packages online, showcasing the implementation of modern web technologies for scalable and efficient e-commerce solutions.
+
+## Dependencies
+
+- Spring Boot
+- Spring Data JPA
+- Rest Repositories
+- MySQL Driver
+- Lombok
+
+## Features
+
+- **Java Spring Framework**: Leverages Spring Framework to create a robust and modern back-end foundation.
+- **Integration with Angular Front-End**: Connects the backend with the Angular front-end through RESTful APIs, ensuring seamless data flow and user interactions.
+- **Spring Data JPA:** Allows for easy integration with a MySQL database to store and retrieve vacation package information.
+- **Rest Repositories:** Provides RESTful APIs for accessing and manipulating vacation packages and customer checkouts.
+- **Hibernate ORM**: Utilizes Hibernate as the ORM (Object-Relational Mapping) tool to interact with the MySQL database, ensuring accurate data persistence and data fetching.
+- **MySQL Database**: Uses a MySQL database for reliable data storage and retrieval.
+- **Lombok:** Reduces boilerplate code in entity classes and improves code readability.
+- **Postman Integration:** Utilizes Postman to test API endpoints and ensure proper functionality of writing to the database and retrieving responses.
+- **Validation:** Validation is enforced to ensure that the inputs needed by the Angular front-end are correct.
 
 ## Screenshots
-
-### ECommerce Application Interface
 
 ![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%231.png)
 
@@ -15,19 +33,8 @@ The ECommerce Application is a web-based platform built with Java Spring Boot fo
 
 ![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%232.png)
 
-*The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services, ensuring a smooth and responsive user experience.  I developed and integrated the entire backend using Java Spring Boot and connected it to the front end using RESTful APIs.*
+*The RESTful API architecture enables the frontend user interface to request and receive the necessary data from the backend services.  I developed and integrated the entire backend using Java Spring Boot and connected it to the front end using RESTful APIs.*
 
-
-## Features
-
-- **Java Spring Framework**: I leveraged the Spring Framework to create a robust and modern back-end foundation.
-- **Integration with Angular Front-End**: I connected the backend with the Angular front-end through RESTful APIs, ensuring seamless data flow and user interactions.
-- **Spring Data JPA**: I used Spring Data JPA for efficient data access and management.
-- **Hibernate ORM**: I utilized Hibernate as the ORM (Object-Relational Mapping) tool to interact with the MySQL database, ensuring accurate data persistence and data fetching.
-- **RESTful API**: I exposed RESTful APIs for essential functions like checkout and vacation packages listing.
-- **MySQL Database**: I used a MySQL database for reliable data storage and retrieval.
-- **Validation**: I implemented robust input validation to ensure data integrity and adherence to requirements.
-- **Sample Data**: I added five sample customers to the application for testing purposes.
 
 ## Usage
 
