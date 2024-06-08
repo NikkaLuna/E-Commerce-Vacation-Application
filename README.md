@@ -1,4 +1,4 @@
-# Spring Boot & JPA E-Commerce Vacation Application
+# E-Commerce Vacation Application
 
 ## Project Overview
 
