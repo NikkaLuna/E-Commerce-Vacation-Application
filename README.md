@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-The ECommerce Application is a web-based platform built with Java Spring Boot for the backend and Angular for the frontend. 
-
-It enables users to browse and purchase vacation and excursion packages online, showcasing the implementation of modern web technologies for scalable and efficient e-commerce solutions.
+The E-Commerce Vacation Application is a full stack web-based platform built with Java Spring Boot for the backend and Angular for the frontend. It enables users to browse and purchase vacation and excursion packages online.
 
 ## Features
 
