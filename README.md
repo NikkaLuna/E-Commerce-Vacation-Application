@@ -25,7 +25,7 @@ The E-Commerce Vacation Application is a full stack web-based platform built wit
 
 ![ECommerce Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate/blob/master/UI%20%232.png)
 
-*This screenshot displays the front-end interface where users can view their cart summary and customer details. The right side displays the backend data service activities, facilitated by the RESTful API architecture.*
+*This screenshot displays the front-end interface where users can view their cart summary and customer details. The right side shows the backend data service activities, such as fetching customer details and cart items, facilitated by the RESTful API architecture.*
 
 ## Dependencies
 
